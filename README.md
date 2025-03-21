@@ -7,6 +7,6 @@ Um aplicativo no qual você escolhe entre pedra, papel e tesoura, e randomicamen
 Nesse momento, o aplicativo mostra se você venceu, perdeu ou empatou.
 ## Demonstração
 
-<div align="center">
+
 ![Demo do JokenPo](https://github.com/user-attachments/assets/80624964-f913-4900-a218-085887a83a0a)
-</div>
+
