@@ -7,5 +7,5 @@ Um aplicativo no qual você escolhe entre pedra, papel e tesoura, e randomicamen
 Nesse momento, o aplicativo mostra se você venceu, perdeu ou empatou.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/020d7629-d331-4283-a052-279b0b52806e" width="60%">
+  <img src= "https://github.com/user-attachments/assets/020d7629-d331-4283-a052-279b0b52806e">
 </div>
